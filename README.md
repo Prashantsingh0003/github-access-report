@@ -2,7 +2,7 @@
 
 A Spring Boot REST API that connects to GitHub and generates a structured report showing which users have access to which repositories within a given organization.
 
-## Live Demo
+## Local Demo
 ```bash
 GET http://localhost:8080/api/access-report?org=prashant-report-test
 ```
